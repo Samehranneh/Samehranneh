@@ -8,16 +8,17 @@ I build tools for the parts of humanitarian work that run on data: monitoring an
 
 - **Program management & MEAL** for humanitarian and development projects (PMP-trained, field coordination, M&E oversight)
 - **Data collection & analysis** with KoboToolbox / ODK, Python, and notebooks
-- **Machine learning & computer vision** — face recognition, data mining, classical ML
+- **Machine learning & computer vision** — face recognition, classification, data mining
 - **Web development** — HTML, CSS, JavaScript
 
 ### Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [face-recognition-db](https://github.com/Samehranneh/face-recognition-db) | Register people with a photo and find them again by picture, using 128-d face embeddings | Python, face_recognition, OpenCV |
-| [portfolio](https://samehranneh.github.io/portfolio/) | My personal site | HTML, CSS |
-| [IDM-results](https://github.com/Samehranneh/IDM-results) | Data mining coursework results site (Syrian Virtual University) | HTML, SCSS, Gulp |
+| [face-recognition-db](https://github.com/Samehranneh/face-recognition-db) | Registers people with a photo and identifies them from a new picture using 128-d face embeddings | Python, face_recognition, NumPy |
+| [vehicle-classification-model-comparison](https://github.com/Samehranneh/vehicle-classification-model-comparison) | Benchmarks Logistic Regression, Decision Tree and Naive Bayes on a 1.4 GB vehicles dataset | Python, scikit-learn, Jupyter |
+| [developer-designer-portfolio-website](https://github.com/Samehranneh/developer-designer-portfolio-website) | Multi-section portfolio website built for a programmer and graphic designer | HTML, SCSS, Bootstrap, Gulp |
+| [samehranneh.github.io](https://samehranneh.github.io/) | My personal website | HTML, CSS |
 
 ### Background
 
