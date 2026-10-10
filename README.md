@@ -15,9 +15,12 @@ I build tools for the parts of humanitarian work that run on data: monitoring an
 
 | Project | What it does | Stack |
 |---|---|---|
-| [face-recognition-db](https://github.com/Samehranneh/face-recognition-db) | Registers people with a photo and identifies them from a new picture using 128-d face embeddings | Python, face_recognition, NumPy |
-| [vehicle-classification-model-comparison](https://github.com/Samehranneh/vehicle-classification-model-comparison) | Benchmarks Logistic Regression, Decision Tree and Naive Bayes on a 1.4 GB vehicles dataset | Python, scikit-learn, Jupyter |
-| [developer-designer-portfolio-website](https://github.com/Samehranneh/developer-designer-portfolio-website) | Multi-section portfolio website built for a programmer and graphic designer | HTML, SCSS, Bootstrap, Gulp |
+| [damascus-stock-market-forecasting](https://github.com/Samehranneh/damascus-stock-market-forecasting) | M.Sc. project: next-day price forecasts for 28 Damascus Securities Exchange companies, benchmarked against a naive baseline, with a Flask API | Python, scikit-learn, XGBoost, TensorFlow, Flask |
+| [face-recognition-db](https://github.com/Samehranneh/face-recognition-db) | Register people with a photo and identify them from a new picture, as a CLI and a Gradio desktop app | Python, face_recognition, Gradio |
+| [vehicle-classification-model-comparison](https://github.com/Samehranneh/vehicle-classification-model-comparison) | Logistic Regression vs Decision Tree vs Naive Bayes on a 1.4 GB vehicles dataset | Python, scikit-learn |
+| [bookstore-cafe-website](https://github.com/Samehranneh/bookstore-cafe-website) | Bookstore café front-end with a working shopping cart | HTML, CSS, Bootstrap, JavaScript |
+| [developer-designer-portfolio-website](https://github.com/Samehranneh/developer-designer-portfolio-website) | Portfolio website built for a programmer and graphic designer | HTML, SCSS, Bootstrap, Gulp |
+| [msc-computer-science-coursework](https://github.com/Samehranneh/msc-computer-science-coursework) | Seven M.Sc. courses: SQL Server, logic programming, ML, IoT, security | Python, T-SQL, Packet Tracer |
 | [samehranneh.github.io](https://samehranneh.github.io/) | My personal website | HTML, CSS |
 
 ### Background
